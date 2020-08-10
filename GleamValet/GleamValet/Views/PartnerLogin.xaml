@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="GleamValet.PartnerLogin"
+             NavigationPage.HasNavigationBar="false"
+             >
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Grid Margin="20,0,20,0" VerticalOptions="CenterAndExpand">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+
+                    <StackLayout Grid.Row="0">
+                        <Editor Placeholder="E-mail" HorizontalOptions="CenterAndExpand" FontSize="16 " x:Name="PartnerEmail" WidthRequest="200" AutoSize="TextChanges"/>
+                    </StackLayout>
+
+
+
+                    <StackLayout Grid.Row="1">
+
+                        <Entry Placeholder="Password" IsPassword="True" HorizontalOptions="CenterAndExpand" FontSize="16 " x:Name="EntryPassword" WidthRequest="200" />
+                    </StackLayout>
+
+                    <StackLayout Grid.Row="3">
+
+                        <Button Text="Login" Font="16" WidthRequest="200" HorizontalOptions="CenterAndExpand" BackgroundColor="Black" TextColor="White" x:Name="LoginButton" Clicked="LoginButton_Clicked"/>
+                    </StackLayout>
+
+                    <StackLayout Grid.Row="4">
+
+                        <Button Text="Register" Font="16" WidthRequest="200" HorizontalOptions="CenterAndExpand" BackgroundColor="Black" TextColor="White" x:Name="RegisterButton" Clicked="RegisterButton_Clicked"/>
+                    </StackLayout>
+                </Grid>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

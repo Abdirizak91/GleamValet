@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "916498877735",
+    "firebase_url": "https://gleamvalet-2c82b.firebaseio.com",
+    "project_id": "gleamvalet-2c82b",
+    "storage_bucket": "gleamvalet-2c82b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916498877735:android:94320032f20f91b8aa2d02",
+        "android_client_info": {
+          "package_name": "com.companyname.gleamvalet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916498877735-45kb1b8sp0jn5fbimeblt6gn9sfo23ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companyname.gleamvalet",
+            "certificate_hash": "b96111931a293948e4ba8b4dd52df2f548ca7cba"
+          }
+        },
+        {
+          "client_id": "916498877735-196n8furvb3ajdtacv5dnr4m7ijpuqt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK-cq93vpDLxY9PUm5sZQ6h9pbsRUIcSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916498877735-196n8furvb3ajdtacv5dnr4m7ijpuqt1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "916498877735-kl5fdosinok31bdd5msh6b63uucstdh5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.companyname.GleamValet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

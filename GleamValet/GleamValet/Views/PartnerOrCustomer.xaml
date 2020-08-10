@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="GleamValet.Views.PartnerOrCustomer">
+    <ContentPage.Content>
+        <ScrollView>
+            <RelativeLayout>
+
+                <Image RelativeLayout.XConstraint="{ConstraintExpression
+                            Type=Constant,Property=Width,Factor=.00}"
+                       RelativeLayout.YConstraint="{ConstraintExpression
+                            Type=Constant,Property=Height,Factor=.00,Constant=100}" TranslationX="-35" TranslationY="-80" HorizontalOptions="CenterAndExpand" Source="applogo.png" HeightRequest="270" WidthRequest="500" ></Image>
+
+
+                <Button   RelativeLayout.XConstraint="{ConstraintExpression
+                            Type=RelativeToParent,Property=Width,Factor=.6}"
+                        RelativeLayout.YConstraint="{ConstraintExpression
+                            Type=RelativeToParent,Property=Height,Factor=0.3,Constant=100}" HorizontalOptions="CenterAndExpand" Text="Customer"  WidthRequest="120" FontSize="16 " Clicked="Button_Customer"/>
+
+
+
+                <Button RelativeLayout.XConstraint="{ConstraintExpression
+                            Type=RelativeToParent,Property=Width,Factor=0.11}"
+                        RelativeLayout.YConstraint="{ConstraintExpression
+                            Type=RelativeToParent,Property=Height,Factor=0.3,Constant=100}" HorizontalOptions="CenterAndExpand" Text="Partner" WidthRequest="120" FontSize="16 " Clicked="Button_Clicked"/>
+                
+
+            </RelativeLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

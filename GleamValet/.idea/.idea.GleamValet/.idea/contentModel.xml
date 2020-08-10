@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Program Files (x86)\Android\android-sdk\platforms\android-28\Data\res" t="IncludeRecursive" />
+    <e p="C:\Users\Abdirizak J Ismail\.nuget\packages\xamarin.firebase.analytics\71.1606.0\proguard\MonoAndroid90\proguard.txt" t="Include" />
+    <e p="C:\Users\Abdirizak J Ismail\.nuget\packages\xamarin.firebase.analytics.impl\71.1624.0\proguard\MonoAndroid90\proguard.txt" t="Include" />
+    <e p="C:\Users\Abdirizak J Ismail\.nuget\packages\xamarin.firebase.common\71.1610.0\proguard\MonoAndroid90\proguard.txt" t="Include" />
+    <e p="C:\Users\Abdirizak J Ismail\.nuget\packages\xamarin.googleplayservices.base\71.1610.0\proguard\MonoAndroid90\proguard.txt" t="Include" />
+    <e p="C:\Users\Abdirizak J Ismail\.nuget\packages\xamarin.googleplayservices.basement\71.1620.0\proguard\MonoAndroid90" t="Include">
+      <e p="proguard.txt" t="Include" />
+    </e>
+    <e p="C:\Users\Abdirizak J Ismail\.nuget\packages\xamarin.googleplayservices.measurement.api\71.1604.0\proguard\MonoAndroid90\proguard.txt" t="Include" />
+    <e p="C:\Users\Abdirizak J Ismail\.nuget\packages\xamarin.googleplayservices.measurement.base\71.1605.0\proguard\MonoAndroid90\proguard.txt" t="Include" />
+    <e p="C:\Users\Abdirizak J Ismail\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Abdirizak J Ismail\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_GleamValet.-1938580252.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet" t="IncludeFlat">
+      <e p="GleamValet" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Data" t="Include">
+          <e p="CustomerTable.cs" t="Include" />
+          <e p="PartnerRegTable.cs" t="Include" />
+        </e>
+        <e p="GleamValet.csproj" t="IncludeRecursive" />
+        <e p="MainPage.xaml" t="Include" />
+        <e p="MainPage.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="GleamValet.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Views" t="Include">
+          <e p="CustomerForgotLogin.xaml" t="Include" />
+          <e p="CustomerForgotLogin.xaml.cs" t="Include" />
+          <e p="CustomerLogin.xaml" t="Include" />
+          <e p="CustomerLogin.xaml.cs" t="Include" />
+          <e p="CustomerRegisteration.xaml" t="Include" />
+          <e p="CustomerRegisteration.xaml.cs" t="Include" />
+          <e p="CustomerUI.xaml" t="Include" />
+          <e p="CustomerUI.xaml.cs" t="Include" />
+          <e p="PartnerLogin.xaml" t="Include" />
+          <e p="PartnerLogin.xaml.cs" t="Include" />
+          <e p="PartnerOrCustomer.xaml" t="Include" />
+          <e p="PartnerOrCustomer.xaml.cs" t="Include" />
+          <e p="PartnerRegisteration.xaml" t="Include" />
+          <e p="PartnerRegisteration.xaml.cs" t="Include" />
+          <e p="PartnerUI.xaml" t="Include" />
+          <e p="PartnerUI.xaml.cs" t="Include" />
+        </e>
+      </e>
+      <e p="GleamValet.Android" t="IncludeRecursive">
+        <e p="Assets" t="Include">
+          <e p="AboutAssets.txt" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="GleamValet.Android.csproj" t="IncludeRecursive" />
+        <e p="google-services.json" t="Include" />
+        <e p="MainActivity.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AndroidManifest.xml" t="Include" />
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="AboutResources.txt" t="Include" />
+          <e p="drawable" t="Include">
+            <e p="Settings_Icon.png" t="Include" />
+          </e>
+          <e p="layout" t="Include">
+            <e p="Tabbar.xml" t="Include" />
+            <e p="Toolbar.xml" t="Include" />
+          </e>
+          <e p="mipmap-anydpi-v26" t="Include">
+            <e p="icon.xml" t="Include" />
+            <e p="icon_round.xml" t="Include" />
+          </e>
+          <e p="mipmap-hdpi" t="Include">
+            <e p="icon.png" t="Include" />
+            <e p="launcher_foreground.png" t="Include" />
+          </e>
+          <e p="mipmap-mdpi" t="Include">
+            <e p="icon.png" t="Include" />
+            <e p="launcher_foreground.png" t="Include" />
+          </e>
+          <e p="mipmap-xhdpi" t="Include">
+            <e p="icon.png" t="Include" />
+            <e p="launcher_foreground.png" t="Include" />
+          </e>
+          <e p="mipmap-xxhdpi" t="Include">
+            <e p="icon.png" t="Include" />
+            <e p="launcher_foreground.png" t="Include" />
+          </e>
+          <e p="mipmap-xxxhdpi" t="Include">
+            <e p="icon.png" t="Include" />
+            <e p="launcher_foreground.png" t="Include" />
+          </e>
+          <e p="Resource.designer.cs" t="Include" />
+          <e p="values" t="Include">
+            <e p="colors.xml" t="Include" />
+            <e p="styles.xml" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="GleamValet.iOS" t="IncludeRecursive">
+        <e p="AppDelegate.cs" t="Include" />
+        <e p="Assets.xcassets" t="Include">
+          <e p="AppIcon.appiconset" t="Include">
+            <e p="Contents.json" t="Include" />
+            <e p="Icon1024.png" t="Include" />
+            <e p="Icon120.png" t="Include" />
+            <e p="Icon152.png" t="Include" />
+            <e p="Icon167.png" t="Include" />
+            <e p="Icon180.png" t="Include" />
+            <e p="Icon20.png" t="Include" />
+            <e p="Icon29.png" t="Include" />
+            <e p="Icon40.png" t="Include" />
+            <e p="Icon58.png" t="Include" />
+            <e p="Icon60.png" t="Include" />
+            <e p="Icon76.png" t="Include" />
+            <e p="Icon80.png" t="Include" />
+            <e p="Icon87.png" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entitlements.plist" t="Include" />
+        <e p="GleamValet.iOS.csproj" t="IncludeRecursive" />
+        <e p="Info.plist" t="Include" />
+        <e p="Main.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="LaunchScreen.storyboard" t="Include" />
+          <e p="Settings_Icon.png" t="Include" />
+        </e>
+      </e>
+      <e p="GleamValet.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

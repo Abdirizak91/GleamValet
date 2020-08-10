@@ -1,0 +1,80 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Abdirizak J Ismail\\Desktop\\University\\3rd Year\\Project\\GleamValet\\GleamValet\\GleamValet.csproj",
+    "projectName": "GleamValet",
+    "projectPath": "C:\\Users\\Abdirizak J Ismail\\Desktop\\University\\3rd Year\\Project\\GleamValet\\GleamValet\\GleamValet.csproj",
+    "outputPath": "C:\\Users\\Abdirizak J Ismail\\Desktop\\University\\3rd Year\\Project\\GleamValet\\GleamValet\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "FirebaseDatabase.net": {
+          "target": "Package",
+          "version": "[4.0.3, )"
+        },
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.3, )",
+          "autoReferenced": true
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[12.0.3, )"
+        },
+        "RestSharp": {
+          "target": "Package",
+          "version": "[106.6.10, )"
+        },
+        "Xamarin.Auth.XamarinForms": {
+          "target": "Package",
+          "version": "[1.7.0, )"
+        },
+        "Xamarin.Essentials": {
+          "target": "Package",
+          "version": "[1.2.0, )"
+        },
+        "Xamarin.Forms": {
+          "target": "Package",
+          "version": "[4.2.0.709249, )"
+        },
+        "sqlite-net-pcl": {
+          "target": "Package",
+          "version": "[1.6.292, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

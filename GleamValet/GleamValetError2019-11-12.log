@@ -1,0 +1,242 @@
+
+
+Date:2019-11-12 01:36:56,443
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:36:56,470
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:36:56,475
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:36:56,479
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:36:57,368
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:36:57,371
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:36:57,688
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:36:57,695
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:36:58,226
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:36:58,230
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:37:00,189
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:37:00,193
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:37:00,457
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:37:00,463
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:37:01,932
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:37:01,941
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:37:01,946
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:37:01,949
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:37:02,987
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:37:02,991
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:37:02,995
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)
+
+
+Date:2019-11-12 01:37:02,999
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.MainViewModel                         [(null)]
+Message:System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at Syncfusion.Xamarin.UI.MainViewModel.GetAttributes(XmlNodeList xmlNode, String selectedItem, Boolean _IsDescription)

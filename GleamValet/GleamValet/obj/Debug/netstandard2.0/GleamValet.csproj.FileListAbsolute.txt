@@ -1,0 +1,53 @@
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\bin\Debug\netstandard2.0\GleamValet.deps.json
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\bin\Debug\netstandard2.0\GleamValet.dll
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\bin\Debug\netstandard2.0\ref\GleamValet.dll
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\bin\Debug\netstandard2.0\GleamValet.pdb
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\ComboSendJob.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\CustomerLogin.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\CustomerRegisteration.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\CustomerUI.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\ExteriorSendJob.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\InteriorSendJob.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\PartnerLogin.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\PartnerOrCustomer.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\PartnerRegisteration.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\PartnerUI.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\GleamValet.AssemblyInfoInputs.cache
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\GleamValet.AssemblyInfo.cs
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\GleamValet.dll
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\ref\GleamValet.dll
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\GleamValet.pdb
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\GleamValet.csprojAssemblyReference.cache
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\SplashScreenController.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\CustomerForgotLogin.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\GleamValet.csproj.CoreCompileInputs.cache
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\bin\Debug\netstandard2.0\GleamValet.deps.json
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\bin\Debug\netstandard2.0\GleamValet.dll
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\bin\Debug\netstandard2.0\ref\GleamValet.dll
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\bin\Debug\netstandard2.0\GleamValet.pdb
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\SplashScreenController.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\ComboSendJob.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\CustomerChatPage.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\CustomerForgotLogin.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\CustomerLogin.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\CustomerRegisteration.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\CustomerUI.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\ExteriorSendJob.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\InteriorSendJob.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\PartnerLogin.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\PartnerOrCustomer.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\PartnerRegisteration.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\Views\PartnerUI.xaml.g.cs
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\GleamValet.csproj.CoreCompileInputs.cache
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\GleamValet.AssemblyInfoInputs.cache
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\GleamValet.AssemblyInfo.cs
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\GleamValet.dll
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\ref\GleamValet.dll
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\GleamValet.pdb
+C:\Users\Abdirizak J Ismail\Desktop\Project\Project\GleamValet\GleamValet\obj\Debug\netstandard2.0\GleamValet.csprojAssemblyReference.cache

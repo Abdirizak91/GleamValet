@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/.nuget/packages/xamarin.firebase.analytics.impl/71.1624.0/proguard/MonoAndroid90/proguard.txt" />
+    <content url="file://$USER_HOME$/.nuget/packages/xamarin.firebase.analytics/71.1606.0/proguard/MonoAndroid90/proguard.txt" />
+    <content url="file://$USER_HOME$/.nuget/packages/xamarin.firebase.common/71.1610.0/proguard/MonoAndroid90/proguard.txt" />
+    <content url="file://$USER_HOME$/.nuget/packages/xamarin.googleplayservices.base/71.1610.0/proguard/MonoAndroid90/proguard.txt" />
+    <content url="file://$USER_HOME$/.nuget/packages/xamarin.googleplayservices.basement/71.1620.0/proguard/MonoAndroid90" />
+    <content url="file://$USER_HOME$/.nuget/packages/xamarin.googleplayservices.measurement.api/71.1604.0/proguard/MonoAndroid90/proguard.txt" />
+    <content url="file://$USER_HOME$/.nuget/packages/xamarin.googleplayservices.measurement.base/71.1605.0/proguard/MonoAndroid90/proguard.txt" />
+    <content url="file://$MODULE_DIR$/../.." />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

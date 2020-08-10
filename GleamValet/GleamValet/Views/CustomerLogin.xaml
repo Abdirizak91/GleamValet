@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="GleamValet.Views.CustomerLogin"
+             NavigationPage.HasNavigationBar="false"
+             >
+
+    <StackLayout VerticalOptions="Center">
+
+        <Editor Placeholder="E-mail" HorizontalOptions="CenterAndExpand"  FontSize="16 " x:Name="EntryEmail" WidthRequest="200"  AutoSize="TextChanges" />
+
+
+        <Entry Placeholder="Password" IsPassword="True" HorizontalOptions="CenterAndExpand"   FontSize="16 " x:Name="EntryPassword" WidthRequest="200"  />
+
+
+        <Button Text="Login" Font="16" WidthRequest="200" HorizontalOptions="CenterAndExpand" BackgroundColor="Black" TextColor="White" x:Name="LoginButton" Clicked="LoginButton_Clicked"/>
+
+
+        <Button Text="Register" Font="16" WidthRequest="200" HorizontalOptions="CenterAndExpand" BackgroundColor="Black" TextColor="White" x:Name="RegisterButton" Clicked="RegisterButton_Clicked"/>
+
+    </StackLayout>
+
+</ContentPage>

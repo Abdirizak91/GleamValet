@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+            xmlns:local="clr-namespace:GleamValet"
+            xmlns:pages="clr-namespace:GleamValet.Views"
+             x:Class="GleamValet.Views.CustomerUI"
+             NavigationPage.HasNavigationBar="false">
+
+    <ContentPage Title="Gleam" IconImageSource ="Gleam.png">
+
+        <ContentPage.Content>
+            <ScrollView VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+                
+                <RelativeLayout>
+                    <StackLayout>
+                        <StackLayout>
+                        <Entry x:Name="Location" Placeholder="My Location" HorizontalTextAlignment="Center" IsReadOnly="true" WidthRequest="260" RelativeLayout.YConstraint="20" ></Entry>
+                <Button x:Name="GetLocation" Clicked="GetLocation_OnClicked" Text="Find Me" WidthRequest="120" HeightRequest="40" RelativeLayout.YConstraint="20" RelativeLayout.XConstraint="270" BorderWidth="2" Padding="2" BorderColor="Black"></Button>
+                            <Button x:Name="GoToChat" Text="Chat"  Clicked="GoToChat_Clicked"></Button>
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Label Text="Gleam Services" TextColor="DarkCyan" TranslationX="320" TranslationY="40" ScaleX="2" ScaleY="1.6" ></Label>
+
+                            <Label Text="INTERIOR" TextColor="BlueViolet" TranslationX="243" TranslationY="100" ScaleX="1.4" ScaleY="1.2" CharacterSpacing="4"></Label>
+                        <Label x:Name="InteriorPrices" Text="£20" TextColor="Maroon" TranslationX="420" TranslationY="250" ScaleX="1.4" ScaleY="1.2"></Label>
+                        <ImageButton x:Name="interiorImage" Clicked="InteriorImage_OnClicked" Source="interior.jpg" RelativeLayout.YConstraint="155" RelativeLayout.XConstraint="130" ScaleX="0.6" TranslationY="100"></ImageButton>
+                        <Label x:Name="InteriorDescription" TranslationX="40" TranslationY="100" TextColor="Black">
+                        <Label.Text>
+
+                            Get your car's interior shining, this package offers deep
+interior cleaning which includes seats, dashboard and 
+windows
+
+                            </Label.Text>
+                    </Label>
+                        </StackLayout>
+
+
+                        <StackLayout>
+                            <Label Text="EXTERIOR" TextColor="BlueViolet" TranslationX="243" TranslationY="120" ScaleX="1.4" ScaleY="1.2" CharacterSpacing="4"></Label>
+                        <Label x:Name="ExteriorPrices" Text="£15" TextColor="Maroon" TranslationX="420" TranslationY="250" ScaleX="1.4" ScaleY="1.2"></Label>
+                            <ImageButton x:Name="exteriorImage" Clicked="ExteriorImage_OnClicked" Source="Exterior.jpg" ></ImageButton>
+                        <Label x:Name="ExteriorDescription" TranslationX="40" TranslationY="100" TextColor="Black">
+                            <Label.Text>
+                                Get your car gleaming with this package, 
+full exterior clean with secret gleam washing liquid 
+to give your car that shine all over.
+                        </Label.Text>
+
+                        </Label>
+                        </StackLayout>
+
+                        <StackLayout>
+                        <Label Text="COMBO" TextColor="BlueViolet" TranslationX="243" TranslationY="120" ScaleX="1.4" ScaleY="1.2" CharacterSpacing="4"></Label>
+                        <Label x:Name="ComboPrices" Text="£27" TextColor="Maroon" TranslationX="420" TranslationY="250" ScaleX="1.4" ScaleY="1.2"></Label>
+                            <ImageButton x:Name="comboImage"  VerticalOptions="Start" Clicked="ComboImage_OnClicked" Source="combo.png" RelativeLayout.YConstraint="255" RelativeLayout.XConstraint="130" ScaleX="0.6" TranslationY="100"></ImageButton>
+                        </StackLayout>
+                        
+                        <StackLayout TranslationX="40" TranslationY="100">
+                            <Label Text="London Metropolitan University © All Rights Reserved" TranslationX="40" TranslationY="100"></Label>
+                        </StackLayout>
+                        
+                    </StackLayout>
+                </RelativeLayout>
+
+
+
+
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+    
+    <ContentPage Title="Settings" IconImageSource="Settings_Icon.png">
+        <ContentPage.Content>
+            <StackLayout>
+                <Button Text="Logout" x:Name="CustomerLogout" Clicked="CustomerLogout_Clicked"/>
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+    
+    <ContentPage Title="Contact us" IconImageSource="Contact_Us.png">
+        <ContentPage.Content>
+            <StackLayout>
+                <Label Text="For any inquiries please e-mail"/>
+                <Label Text="E-mail us on: ABI0118@my.londonmet.ac.uk"/>
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+    
+
+</TabbedPage>
